@@ -1,0 +1,13 @@
+{
+  "car": {
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "color": "Silver",
+    "engine": {
+      "type": "Hybrid",
+      "horsepower": 208,
+      "fuelType": "Gasoline/Electric"
+    }
+  }
+}
